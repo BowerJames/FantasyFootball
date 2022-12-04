@@ -1,0 +1,59 @@
+{
+    "clubs" : [
+        {
+            "name" : "Arsenal",
+            "clubelo_name" : "Arsenal"
+        },
+        {
+            "name" : "Aston Villa",
+            "clubelo_name" : "AstonVilla"
+        },
+        {
+            "name" : "Bournemouth",
+            "clubelo_name" : "Bournemouth"
+        },
+        {
+            "name" : "Brentford",
+            "clubelo_name" : "Brentford"
+        },
+        {
+            "name" : "Brighton",
+            "clubelo_name" : "Brighton"
+        },
+        {
+            "name" : "Chelsea",
+            "clubelo_name" : "Chelsea"
+        },
+        {
+            "name" : "Crystal Palace",
+            "clubelo_name" : "CrystalPalace"
+        },
+        {
+            "name" : "Everton",
+            "clubelo_name" : "Everton"
+        },
+        {
+            "name" : "Fulham",
+            "clubelo_name" : "Fulham"
+        },
+        {
+            "name" : "Leeds",
+            "clubelo_name" : "Leeds"
+        },
+        {
+            "name" : "Leicester",
+            "clubelo_name" : "Leicester"
+        },
+        {
+            "name" : "Liverpool",
+            "clubelo_name" : "Liverpool"
+        },
+        {
+            "name" : "Manchester City",
+            "clubelo_name" : "ManCity"
+        },
+        {
+            "name" : 
+        }
+    ] 
+}
