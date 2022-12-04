@@ -5,3 +5,10 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "ff"
 version = "0.0.1"
+dependencies = [
+    "requests",
+    "pandas",
+    "beautifulsoup4",
+    "tqdm",
+    
+]
