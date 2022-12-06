@@ -21,6 +21,14 @@
             "clubelo_name" : "Brighton"
         },
         {
+            "name" : "Burnley",
+            "clubelo_name" : "Burnley"
+        },
+        {
+            "name" : "Cardiff City",
+            "clubelo_name" : "Cardiff"
+        },
+        {
             "name" : "Chelsea",
             "clubelo_name" : "Chelsea"
         },
@@ -35,6 +43,14 @@
         {
             "name" : "Fulham",
             "clubelo_name" : "Fulham"
+        },
+        {
+            "name" : "Huddersfield",
+            "clubelo_name" : "Huddersfield"
+        },
+        {
+            "name" : "Hull City",
+            "clubelo_name" : "Hull"
         },
         {
             "name" : "Leeds",
@@ -53,7 +69,64 @@
             "clubelo_name" : "ManCity"
         },
         {
-            "name" : 
+            "name" : "Manchester United",
+            "clubelo_name" : "ManUnited"
+        },
+        {
+            "name" : "Middlesbrough",
+            "clubelo_name" : "Middlesbrough"
+        },
+        {
+            "name" : "Newcastle",
+            "clubelo_name" : "Newcastle"
+        },
+        {
+            "name" : "Norwich City",
+            "clubelo_name" : "Norwich"
+        },
+        {
+            "name" : "Nottingham Forest",
+            "clubelo_name" : "Forest"
+        },
+        {
+            "name" : "Sheffield United",
+            "clubelo_name" : "SheffieldUnited"
+        },
+        {
+            "name" : "Southampton",
+            "clubelo_name" : "Southampton"
+        },
+        {
+            "name" : "Stoke",
+            "clubelo_name" : "Stoke"
+        },
+        {
+            "name" : "Sunderland",
+            "clubelo_name" : "Sunderland"
+        },
+        {
+            "name" : "Swansea City",
+            "clubelo_name" : "Swansea"
+        },
+        {
+            "name" : "Tottenham",
+            "clubelo_name" : "Tottenham"
+        },
+        {
+            "name" : "Watford",
+            "clubelo_name" : "Watford"
+        },
+        {
+            "name" : "West Bromwich",
+            "clubelo_name" : "WestBrom"
+        },
+        {
+            "name" : "West Ham",
+            "clubelo_name" : "WestHam"
+        },
+        {
+            "name" : "Wolves",
+            "clubelo_name" : "Wolves"
         }
     ] 
 }
