@@ -21,6 +21,9 @@ def main():
             print(f"{hrefs[i].split('=')[-1]}.csv did not load")
     """
 
+    df = df = pd.read_csv("https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/cleaned_merged_seasons.csv")
+    df.to_csv(os.path.join(ff.PROJECT_ROOT,'data','raw','player_weekly_stats.csv'))
+
     with open(os.path.join(ff.PROJECT_ROOT,'src','ff','clubs','configs','clubs.json')) as f:
         clubs_json = json.load(f)
         
